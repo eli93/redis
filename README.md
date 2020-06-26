@@ -1,5 +1,8 @@
 # Redis Data Base
 This is a simple implementation for redis database.
+In this program, you can sign up with unique usernames.
+You can add  data to  your profile and save it. 
+When you login again you can view all your data. 
 
 # How to Use
 Run ```redis_prject1.py``` to run the program
